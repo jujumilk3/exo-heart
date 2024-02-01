@@ -6,11 +6,17 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Welcome to Quartz</title>
+    <title>Welcome to 🫀Exoheart</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
-    <pubDate>Fri, 26 Jan 2024 13:28:20 GMT</pubDate>
+    <description>This is a blank Quartz installation. See the documentation for how to get started. You can read me from here.</description>
+    <pubDate>Thu, 01 Feb 2024 13:34:37 GMT</pubDate>
+  </item><item>
+    <title>me</title>
+    <link>https://quartz.jzhao.xyz/me</link>
+    <guid>https://quartz.jzhao.xyz/me</guid>
+    <description>My nickname is gyudoza. gyudoza means gudoza + gyu-my first name’s last character-.</description>
+    <pubDate>Thu, 01 Feb 2024 13:34:37 GMT</pubDate>
   </item>
     </channel>
   </rss>
