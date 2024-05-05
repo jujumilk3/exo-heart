@@ -6,6 +6,30 @@
       <description>Last 10 notes on 🫀 Exoheart</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Test Attachment</title>
+    <link>https://jujumilk3.github.io/exoheart/directory-test/inner-directory/Test-Attachment</link>
+    <guid>https://jujumilk3.github.io/exoheart/directory-test/inner-directory/Test-Attachment</guid>
+    <description> This is my profile image.</description>
+    <pubDate>Sun, 05 May 2024 04:35:36 GMT</pubDate>
+  </item><item>
+    <title>01. Prologue</title>
+    <link>https://jujumilk3.github.io/exoheart/Learn-from-failure/01.--Prologue</link>
+    <guid>https://jujumilk3.github.io/exoheart/Learn-from-failure/01.--Prologue</guid>
+    <description>My personal philosophy about life has been greatly influenced by Buddha. I don’t know much about Buddhist teachings, but I think it’s because I believe there isn’t a phrase more universally applicable to the entirety of human life than ‘life is suffering’.</description>
+    <pubDate>Sun, 05 May 2024 04:00:55 GMT</pubDate>
+  </item><item>
+    <title>02. The second memory</title>
+    <link>https://jujumilk3.github.io/exoheart/The-super-verbose-me/02.-The-second-memory</link>
+    <guid>https://jujumilk3.github.io/exoheart/The-super-verbose-me/02.-The-second-memory</guid>
+    <description>This is my second memory.</description>
+    <pubDate>Sun, 05 May 2024 03:58:49 GMT</pubDate>
+  </item><item>
+    <title>01. The first memory</title>
+    <link>https://jujumilk3.github.io/exoheart/The-super-verbose-me/01.-The-oldest-memory</link>
+    <guid>https://jujumilk3.github.io/exoheart/The-super-verbose-me/01.-The-oldest-memory</guid>
+    <description>My oldest memory is of me crossing the crosswalk with my hand raised above. But there’s was a problem. When I was young, I was so foolish that I didn’t know how to look at traffic lights.</description>
+    <pubDate>Sun, 05 May 2024 03:57:38 GMT</pubDate>
+  </item><item>
     <title>HIHIHI</title>
     <link>https://jujumilk3.github.io/exoheart/directory-test/inner-directory/HIHIHI</link>
     <guid>https://jujumilk3.github.io/exoheart/directory-test/inner-directory/HIHIHI</guid>
@@ -27,7 +51,7 @@
     <title>Welcome to 🫀 Exoheart</title>
     <link>https://jujumilk3.github.io/exoheart/</link>
     <guid>https://jujumilk3.github.io/exoheart/</guid>
-    <description>This is a blank Quartz installation. See the documentation for how to get started. You can read me from here.</description>
+    <description>You can read me from here.</description>
     <pubDate>Thu, 01 Feb 2024 13:34:37 GMT</pubDate>
   </item><item>
     <title>me</title>
