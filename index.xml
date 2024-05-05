@@ -1,20 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>🪴 Quartz 4.0</title>
-      <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <title>🫀 Exoheart</title>
+      <link>https://jujumilk3.github.io/exoheart/</link>
+      <description>Last 10 notes on 🫀 Exoheart</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Welcome to 🫀Exoheart</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
+    <title>HIHIHI</title>
+    <link>https://jujumilk3.github.io/exoheart/directory-test/inner-directory/HIHIHI</link>
+    <guid>https://jujumilk3.github.io/exoheart/directory-test/inner-directory/HIHIHI</guid>
+    <description>HIHIHI.</description>
+    <pubDate>Sun, 05 May 2024 03:13:18 GMT</pubDate>
+  </item><item>
+    <title>Everything depends on probability</title>
+    <link>https://jujumilk3.github.io/exoheart/Everything-depends-on-probability</link>
+    <guid>https://jujumilk3.github.io/exoheart/Everything-depends-on-probability</guid>
+    <description>In the world, everything depends on probability. Studying for an exam is an act of increasing the probability of getting a high score in the exam, while studying stocks is an act of increasing the probability of gaining profits in the stock market.</description>
+    <pubDate>Sat, 04 May 2024 14:23:21 GMT</pubDate>
+  </item><item>
+    <title>Inner directory contents</title>
+    <link>https://jujumilk3.github.io/exoheart/directory-test/Inner-directory-contents</link>
+    <guid>https://jujumilk3.github.io/exoheart/directory-test/Inner-directory-contents</guid>
+    <description>I had to check how this looked.</description>
+    <pubDate>Sat, 04 May 2024 13:59:02 GMT</pubDate>
+  </item><item>
+    <title>Welcome to 🫀 Exoheart</title>
+    <link>https://jujumilk3.github.io/exoheart/</link>
+    <guid>https://jujumilk3.github.io/exoheart/</guid>
     <description>This is a blank Quartz installation. See the documentation for how to get started. You can read me from here.</description>
     <pubDate>Thu, 01 Feb 2024 13:34:37 GMT</pubDate>
   </item><item>
     <title>me</title>
-    <link>https://quartz.jzhao.xyz/me</link>
-    <guid>https://quartz.jzhao.xyz/me</guid>
+    <link>https://jujumilk3.github.io/exoheart/me</link>
+    <guid>https://jujumilk3.github.io/exoheart/me</guid>
     <description>My nickname is gyudoza. gyudoza means gudoza + gyu-my first name’s last character-.</description>
     <pubDate>Thu, 01 Feb 2024 13:34:37 GMT</pubDate>
   </item>
